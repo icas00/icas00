@@ -18,15 +18,15 @@ My current work combines **AI + full-stack engineering**, turning repetitive tas
 ## ✨ Featured Project: Email Writer AI  
 
 [![Live Demo](https://img.shields.io/badge/🌍_Live_Demo-lightblue?logo=google-chrome)](https://ai-email-writer-4rk4.onrender.com/)
-[![Chrome Web Store](https://img.shields.io/badge/Chrome_Extension-green?logo=google-chrome)](https://chromewebstore.google.com/detail/email-writer/nefgnkboedlacmpgbkgjoknjeigpppln)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Extension-lightgreen?logo=google-chrome)](https://chromewebstore.google.com/detail/email-writer/nefgnkboedlacmpgbkgjoknjeigpppln)
 
 **AI-powered Gmail assistant** that helps users write quick, polite, and tone-aware replies — directly inside Gmail.  
 
-- 🧠 Generates **Professional**, **Friendly**, or **Concise** replies using AI (Gemini API)  
-- 📨 Integrates seamlessly into Gmail via a Chrome Extension  
-- 💾 Stores all data locally — **no server-side email storage**  
-- ⚙️ Full-stack system: **React (Vite)** frontend + **Spring Boot (Java)** backend  
-- 🌍 Deployed on **Render** and available on the **[Chrome Web Store](https://chromewebstore.google.com/detail/email-writer/nefgnkboedlacmpgbkgjoknjeigpppln)**  
+-  Generates **Professional**, **Friendly**, or **Concise** replies using AI (Gemini API)  
+-  Integrates seamlessly into Gmail via a Chrome Extension  
+-  Stores all data locally — **no server-side email storage**  
+-  Full-stack system: **React (Vite)** frontend + **Spring Boot (Java)** backend  
+-  Deployed on **Render** and available on the **[Chrome Web Store](https://chromewebstore.google.com/detail/email-writer/nefgnkboedlacmpgbkgjoknjeigpppln)**  
 
 > 🧩 **Project Repositories:**  
 > - [![Frontend Repo](https://img.shields.io/badge/Frontend_Code-gray?logo=github)](https://github.com/icas00/AI-Email-Writer-frontend)
@@ -64,15 +64,14 @@ My current work combines **AI + full-stack engineering**, turning repetitive tas
 ---
 
 ## 🏆 Highlights  
-- 🚀 Published a full-stack Chrome Extension on the Web Store  
-- 🧩 Built scalable backends with Spring Boot, JWT, and DTO validation  
-- 🤖 Integrated AI APIs for real-time text generation  
-- 💡 Focused on maintainable, production-grade code and UX consistency  
+- Published a full-stack Chrome Extension on the Web Store  
+- Built scalable backends with Spring Boot, JWT, and DTO validation  
+- Integrated AI APIs for real-time text generation  
+- Focused on maintainable, production-grade code and UX consistency  
 
 ---
 
 ## 📊 GitHub Stats  
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=icas00&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icas00&layout=compact&theme=tokyonight)
 
 ---
