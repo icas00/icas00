@@ -17,7 +17,7 @@ My current work combines **AI + full-stack engineering**, turning repetitive tas
 
 ## ✨ Featured Project: Email Writer AI  
 
-[![Live Demo](https://img.shields.io/badge/🌍_Live_Demo-blue?logo=google-chrome)](https://ai-email-writer-4rk4.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/🌍_Live_Demo-lightblue?logo=google-chrome)](https://ai-email-writer-4rk4.onrender.com/)
 [![Chrome Web Store](https://img.shields.io/badge/Chrome_Extension-green?logo=google-chrome)](https://chromewebstore.google.com/detail/email-writer/nefgnkboedlacmpgbkgjoknjeigpppln)
 
 **AI-powered Gmail assistant** that helps users write quick, polite, and tone-aware replies — directly inside Gmail.  
