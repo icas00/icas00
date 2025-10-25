@@ -1,45 +1,74 @@
-👋 Hi, I'm Saad Mirza
+# 👋 Hi, I'm [Saad Mirza](https://linkedin.com/in/saad-mirza01)
 
-🎓 Final-year Computer Engineering student at MES College of Engineering, Pune
-💻 Full-stack Developer — building production-grade web apps, APIs, and browser extensions
-📍 Pune, India · ✉️ engr.saadmirza@gmail.com . [My LinkedIn](https://linkedin.com/in/saad-mirza01)
+🎓 Final-year Computer Engineering student at MES College of Engineering, Pune  
+💻 Full-Stack Developer (Java · Spring Boot · React · AI)  
+📫 [Email Me](mailto:engr.saadmirza@gmail.com) · 🌐 [GitHub Profile](https://github.com/icas00)
 
-🚀 About Me
+---
 
--I enjoy turning ideas into real, working products — whether that’s a backend API, a browser extension, or a full web application.
- My current work bridges AI, backend engineering, and frontend interfaces, with a focus on usability, clean design, and privacy-conscious architecture.
--I’ve recently published a Chrome Extension on the Chrome Web Store, built complete RESTful APIs with Spring Boot, and integrated payment and mapping systems into production-ready apps.
+## 🚀 About Me
+I love building clean, practical, and privacy-friendly applications — from backend APIs to browser extensions that actually make life easier.  
+I’m currently exploring how **AI** can enhance everyday productivity tools, and enjoy connecting strong backends with elegant frontends.
 
-🧠 Technical Skills
+---
 
-Languages: Java, Python, JavaScript, HTML, CSS
-Frontend: React, Vite, Chrome Extension APIs
-Backend: Spring Boot, Spring MVC, Spring Security, Hibernate, REST APIs
-Databases: MySQL, PostgreSQL
-AI & APIs: Gemini API, OpenAI, TensorFlow, OpenCV, Razorpay, Google Maps
-Tools: Git, Postman, Maven, Render, VS Code
-Concepts: OOP, MVC, JWT Authentication, DTO Validation, Agile Development
+## ✨ Featured Project: [Email Writer AI](https://ai-email-writer-4rk4.onrender.com/)
 
-📨 Featured Project — Email Writer AI
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-blue?logo=google-chrome)](https://ai-email-writer-4rk4.onrender.com/)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Extension-green?logo=google-chrome)](https://chromewebstore.google.com/detail/email-writer/nefgnkboedlacmpgbkgjoknjeigpppln)
+[![Backend Repo](https://img.shields.io/badge/Backend%20Code-gray?logo=github)](https://github.com/icas00/AI-Email-Writer-backend)
 
-AI-powered Chrome Extension + Web App that helps users generate intelligent email replies inside Gmail.
-🔗 [Live Site](https://ai-email-writer-4rk4.onrender.com/)
-🛒 [Chrome Web Store Listing](https://chromewebstore.google.com/detail/email-writer/nefgnkboedlacmpgbkgjoknjeigpppln)
+**AI-powered Gmail assistant** that helps users draft quick, polite, and tone-aware replies — directly inside Gmail.
 
-What it does:-
+- 🧠 Generates **Professional**, **Friendly**, or **Concise** replies  
+- 📨 Integrates seamlessly into Gmail via a Chrome Extension  
+- 💾 Saves history locally — **no server-side data storage**  
+- ⚡ Built with **React (Vite)**, **Spring Boot (Java)**, and **Gemini API**  
+- 🌍 [Live Website](https://ai-email-writer-4rk4.onrender.com/) | [Chrome Web Store Listing](https://chromewebstore.google.com/detail/email-writer/nefgnkboedlacmpgbkgjoknjeigpppln)
 
--Integrates directly into Gmail’s interface with a floating popup UI.
--Generates context-aware email replies in different tones — Professional, Friendly, or Concise.
--Stores generated emails locally using browser LocalStorage for quick reuse.
--Offers tab-based navigation for History, Generator, and Settings.
--Keeps user data private — no emails or text are stored on servers.
+---
 
-Tech Stack:-
+## 🧩 Other Projects
 
-Frontend: React (Vite) · Chrome Extension APIs
-Backend: Spring Boot (Java) · Gemini API
-Deployment: Render (Backend), GitHub Pages (Docs), Chrome Web Store (Extension)
+- 🛒 **[Online Grocery Store Backend](https://github.com/icas00/Grocery-Store-Management-)**  
+  Spring Boot APIs with JWT authentication, Razorpay payments, and Google Maps integration.
 
-Why it matters:-
+- 🚗 **[License Plate Recognition System (LPRS)](https://github.com/icas00/LPR-Licence-Plate-Recognition-System)**  
+  Real-time license plate recognition using YOLOv3, OpenCV, and Tesseract OCR.
 
-This project solves a small but real productivity problem — helping professionals respond faster without losing their personal tone. It demonstrates full-stack integration, AI model usage, and browser extension development from end to end.
+---
+
+## 🧠 Tech Stack
+**Backend:** Java · Spring Boot · REST API · JWT  
+**Frontend:** React · Vite · HTML · CSS · Chrome Extension APIs  
+**Database:** MySQL · PostgreSQL  
+**AI / APIs:** Gemini API · TensorFlow · OpenCV · Razorpay · Google Maps  
+**Tools:** Git · Postman · Maven · Render
+
+---
+
+## 💼 Experience
+**Backend Developer Intern — VMV Infotech (Feb 2025 – Jun 2025)**  
+- Built and tested RESTful APIs with Spring Boot  
+- Integrated Razorpay and Google Maps APIs  
+- Implemented token-based authentication and exception handling  
+- Collaborated in Agile sprints and peer code reviews  
+
+---
+
+## 🌱 Currently Exploring
+- CI/CD workflows & Docker  
+- Advanced Spring patterns  
+- AI integrations in everyday apps  
+
+---
+
+## 🤝 Connect with Me
+📧 [engr.saadmirza@gmail.com](mailto:engr.saadmirza@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/saad-mirza01) · [GitHub](https://github.com/icas00)
+
+---
+
+### 💬 Personal Note
+I like creating tools that quietly make work easier — whether it’s writing an email faster or automating small workflows.  
+Every project you see here started as something I wanted to use myself and grew from there.
