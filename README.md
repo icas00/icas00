@@ -26,7 +26,7 @@ My current work combines **AI + full-stack engineering**, turning repetitive tas
 -  Integrates seamlessly into Gmail via a Chrome Extension  
 -  Stores all data locally — **no server-side email storage**  
 -  Full-stack system: **React (Vite)** frontend + **Spring Boot (Java)** backend  
--  Deployed on **Render** and available on the **[Chrome Web Store](https://chromewebstore.google.com/detail/email-writer/nefgnkboedlacmpgbkgjoknjeigpppln)**  
+-  Deployed on **RAILWAY** and available on the **[Chrome Web Store](https://chromewebstore.google.com/detail/email-writer/nefgnkboedlacmpgbkgjoknjeigpppln)**  
 
 > 🧩 **Project Repositories:**  
 > - [![Frontend Repo](https://img.shields.io/badge/Frontend_Code-gray?logo=github)](https://github.com/icas00/AI-Email-Writer-frontend)
